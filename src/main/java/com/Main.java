@@ -127,6 +127,6 @@ public class Main
             "\t\t\t\"length\": 3\n" +
             "\t\t}\n" +
             "\t]\n" +
-            "}\n";
+            "}\n\n";
 
 }
